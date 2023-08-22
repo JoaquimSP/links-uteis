@@ -24,6 +24,12 @@
   <li><a href="https://coolors.co/">Coolors</a> - Geração de cores.</li>
 </ul>
 <hr>
+<p>🗛 Fontes</p>
+<ul>
+  <li><a href="https://fonts.google.com/">Google Fonts</a> - Fontes gratuitas.</li>
+  <li><a href="https://www.dafont.com/pt/">DaFont</a> - Fontes.</li>
+</ul>
+<hr>
 <p>🛠️ Ferramentas</p>
 <ul>
   <li><a href="https://www.remove.bg/pt-br">Remove Background</a> - Removendo fundos.</li>
