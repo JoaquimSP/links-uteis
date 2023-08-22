@@ -10,8 +10,9 @@
 <p>😜 Icones</p>
 <ul>
   <li><a href="https://favicon.io/">Favicon.io</a> - Favicons gratuitos.</li>
-  <li><a href="https://iconarchive.com/">Icon Archive</a> - Icons gratuitos.</li>
-  <li><a href="https://icons8.com.br/">Icons8</a> - Icons gratuitos.</li>
+  <li><a href="https://iconarchive.com/">Icon Archive</a> - Icones gratuitos.</li>
+  <li><a href="https://icons8.com.br/">Icons8</a> - Icones gratuitos.</li>
+  <li><a href="https://fontawesome.com/icons">Font Awesome</a> - Icones gratuitos.</li>
   <li><a href="https://emojipedia.org/">Emojipedia</a> - emojis gratuitos.</li>
   <li><a href="https://unicode.org/emoji/charts/full-emoji-list.html">Emojis</a> - emojis gratuitos.</li>
 </ul>
