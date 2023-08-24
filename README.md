@@ -1,13 +1,13 @@
 # links-uteis
 🔗 Repositório destinado a sites e ferramentas úteis para contribuir com o seu projeto de programação e design. 
 <hr>
-<p>📷 Imagens Gratuitas</p>
+<h2>📷 Imagens Gratuitas</h2>
 <ul>
   <li><a href="https://www.pexels.com/">Pexels</a> - Banco de imagens gratuitas.</li>
   <li><a href="https://unsplash.com/">Unsplash</a> - Banco de imagens gratuitas.</li>
 </ul>
-<hr>
-<p>😜 Icones</p>
+
+<h2>😜 Icones</h2>
 <ul>
   <li><a href="https://favicon.io/">Favicon.io</a> - Favicons gratuitos.</li>
   <li><a href="https://iconarchive.com/">Icon Archive</a> - Icones gratuitos.</li>
@@ -16,21 +16,21 @@
   <li><a href="https://emojipedia.org/">Emojipedia</a> - emojis gratuitos.</li>
   <li><a href="https://unicode.org/emoji/charts/full-emoji-list.html">Emojis</a> - emojis gratuitos.</li>
 </ul>
-<hr>
-<p>🎨 Paleta de Cores</p>
+
+<h2>🎨 Paleta de Cores</h2>
 <ul>
   <li><a href="https://color.adobe.com/pt/create/color-wheel/%22">Adobe Colors</a> - Geração de cores.</li>
   <li><a href="https://paletton.com/">Paletton</a> - Geração de cores.</li>
   <li><a href="https://coolors.co/">Coolors</a> - Geração de cores.</li>
 </ul>
-<hr>
-<p>🗛 Fontes</p>
+
+<h2>🗛 Fontes</h2>
 <ul>
   <li><a href="https://fonts.google.com/">Google Fonts</a> - Fontes gratuitas.</li>
   <li><a href="https://www.dafont.com/pt/">DaFont</a> - Fontes.</li>
 </ul>
-<hr>
-<p>🛠️ Ferramentas</p>
+
+<h2>🛠️ Ferramentas</h2>
 <ul>
   <li><a href="https://www.remove.bg/pt-br">Remove Background</a> - Removendo fundos.</li>
 </ul>
