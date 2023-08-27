@@ -7,7 +7,7 @@
   <li><a href="https://unsplash.com/">Unsplash</a> - Banco de imagens gratuitas.</li>
 </ul>
 
-<h2>😜 Icones</h2>
+<h2>😜 Icones e Ilustrações</h2>
 <ul>
   <li><a href="https://favicon.io/">Favicon.io</a> - Favicons gratuitos.</li>
   <li><a href="https://iconarchive.com/">Icon Archive</a> - Icones gratuitos.</li>
@@ -15,6 +15,7 @@
   <li><a href="https://fontawesome.com/icons">Font Awesome</a> - Icones gratuitos.</li>
   <li><a href="https://emojipedia.org/">Emojipedia</a> - emojis gratuitos.</li>
   <li><a href="https://unicode.org/emoji/charts/full-emoji-list.html">Emojis</a> - emojis gratuitos.</li>
+  <li><a href="https://storyset.com/">Storyset</a> - Ilustrações.</li>
 </ul>
 
 <h2>🎨 Paleta de Cores</h2>
