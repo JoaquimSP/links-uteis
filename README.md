@@ -35,4 +35,5 @@
 <ul>
   <li><a href="https://www.remove.bg/pt-br">Remove Background</a> - Removendo fundos.</li>
   <li><a href="https://pomofocus.io/">Pomofocus</a> - Pomodoro Timer.</li>
+  <li><a href="https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax">Markdown</a> - Guia Markdwon.</li>
 </ul>
