@@ -25,10 +25,12 @@
   <li><a href="https://coolors.co/">Coolors</a> - Geração de cores.</li>
 </ul>
 
-<h2>🗛 Fontes</h2>
+<h2>🗛 Texto</h2>
 <ul>
   <li><a href="https://fonts.google.com/">Google Fonts</a> - Fontes gratuitas.</li>
   <li><a href="https://www.dafont.com/pt/">DaFont</a> - Fontes.</li>
+  <li><a href="https://www.lipsum.com/feed/html">Lorem Ipsum</a> - Gerador de texto.</li>
+  <li><a href="https://www.invertexto.com/">InverTexto</a> - Ferramentas de texto.</li>
 </ul>
 
 <h2>🛠️ Ferramentas</h2>
